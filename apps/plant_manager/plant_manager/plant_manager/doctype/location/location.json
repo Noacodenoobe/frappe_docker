@@ -1,0 +1,92 @@
+{
+  "actions": [],
+  "autoname": "field:location_name",
+  "creation": "2024-08-05 19:00:00.000000",
+  "default_view": "Tree",
+  "doctype": "DocType",
+  "editable_grid": 1,
+  "engine": "InnoDB",
+  "field_order": [
+    "location_name",
+    "location_type",
+    "parent_location",
+    "is_group",
+    "description"
+  ],
+  "fields": [
+    {
+      "fieldname": "location_name",
+      "fieldtype": "Data",
+      "in_list_view": 1,
+      "label": "Location Name",
+      "reqd": 1,
+      "unique": 1
+    },
+    {
+      "fieldname": "location_type",
+      "fieldtype": "Select",
+      "in_list_view": 1,
+      "label": "Location Type",
+      "options": "Pietro\nStrefa\nLokalizacja szczegółowa\nLokalizacja precyzyjna",
+      "reqd": 1
+    },
+    {
+      "fieldname": "parent_location",
+      "fieldtype": "Link",
+      "ignore_user_permissions": 1,
+      "label": "Parent Location",
+      "options": "Location"
+    },
+    {
+      "default": "0",
+      "fieldname": "is_group",
+      "fieldtype": "Check",
+      "label": "Is Group"
+    },
+    {
+      "fieldname": "description",
+      "fieldtype": "Text",
+      "label": "Description"
+    }
+  ],
+  "index_web_pages_for_search": 1,
+  "is_tree": 1,
+  "links": [],
+  "modified": "2024-08-05 19:00:00.000000",
+  "modified_by": "Administrator",
+  "module": "Plant Manager",
+  "name": "Location",
+  "nsm_parent_field": "parent_location",
+  "owner": "Administrator",
+  "permissions": [
+    {
+      "create": 1,
+      "delete": 1,
+      "email": 1,
+      "export": 1,
+      "print": 1,
+      "read": 1,
+      "report": 1,
+      "role": "System Manager",
+      "share": 1,
+      "write": 1
+    },
+    {
+      "create": 1,
+      "delete": 1,
+      "email": 1,
+      "export": 1,
+      "print": 1,
+      "read": 1,
+      "report": 1,
+      "role": "Plant Manager",
+      "share": 1,
+      "write": 1
+    }
+  ],
+  "sort_field": "modified",
+  "sort_order": "DESC",
+  "states": [],
+  "title_field": "location_name",
+  "track_changes": 1
+}
