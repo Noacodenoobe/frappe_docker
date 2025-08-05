@@ -1,0 +1,77 @@
+P14
+├── Admin A 14.16
+│   ├── osłonka na szafce
+│   └── Wolnostojąca
+├── Admin B 14.28
+│   ├── donice w zabudowie
+│   └── Wolnostojąca
+├── Admin C 14.29
+│   └── Wolnostojąca
+├── Kuchnia
+│   ├── donica drewniana podwieszona nad barem (granatowa ścianka)
+│   ├── donica okrągła przy scenie
+│   ├── donica prostokątna przy scenie
+│   ├── donica wysokie stoły przy eLewacji
+│   ├── donica zabudowana – kanapa
+│   ├── donica zabudowana przy schodach na taras
+│   │   ├── Najwyższe piętro z 2 korytkami lamela begonia 56x19x19
+│   │   ├── Niższe piętro z 2 korytkami lamela begonia 56x19x19
+│   │   ├── Niższe piętro z 3 korytkami lamela begonia 56x19x19
+│   │   └── Niższe piętro z 9 korytkami lamela begonia 56x19x19
+│   ├── konstrukcja podwieszona nad barem
+│   ├── konstrukcja podwieszona nad kuchnią
+│   ├── Podwieszona pod oknami Lewa
+│   ├── Podwieszona pod oknami Prawa
+│   ├── Podwieszona pod oknami srodkowa
+│   ├── Wolnostojąca
+│   └── Z kratką przy elewacji
+├── Poznań Finance Team 14.33
+│   └── Na szczytach biurek
+├── Poznań Human Resources Team 14.24
+│   ├── osłonka na szafce
+│   └── Wolnostojąca
+├── Project Pine 14.32
+│   ├── konstrukcja podwieszona
+│   └── Wolnostojąca
+├── Recepcja
+│   ├── donica zabudowana okrągła – wyspa
+│   ├── konstrukcja podwieszona
+│   ├── Podwieszona pod oknami Lewa
+│   ├── Podwieszona pod oknami Prawa
+│   ├── Podwieszona pod oknami środkowa
+│   └── Wolnostojąca
+└── Salki
+    ├── Bark 14.08
+    │   ├── Podwieszona pod oknami Lewa
+    │   ├── Podwieszona pod oknami Prawa
+    │   └── Wolnostojąca
+    ├── Cashmere 14.04
+    │   └── Podwieszona pod oknami
+    ├── Cork 14.10
+    │   ├── Podwieszona pod oknami Lewa
+    │   └── Podwieszona pod oknami Prawa
+    ├── Cotton 14.11
+    │   ├── Podwieszona pod oknami Lewa w narożniku
+    │   ├── Podwieszona pod oknami Lewa środkowa
+    │   ├── Podwieszona pod oknami Lewa zewnętrzna
+    │   ├── Podwieszona pod oknami Prawa w narożniku
+    │   ├── Podwieszona pod oknami Prawa środkowa
+    │   └── Podwieszona pod oknami Prawa zewnętrzna
+    ├── Jute 14.06
+    │   └── Podwieszona pod oknami
+    ├── Moss 14.05
+    │   └── Podwieszona pod oknami
+    ├── Rattan 14.02
+    │   ├── Podwieszona pod oknami Lewa
+    │   └── Podwieszona pod oknami Prawa
+    ├── Seagrass 14.12
+    │   └── Wolnostojąca
+    ├── Silk 14.09
+    │   └── Podwieszona pod oknami
+    ├── Training Willow 14.40
+    │   ├── Podwieszona pod oknami Lewa
+    │   ├── Podwieszona pod oknami Prawa
+    │   └── Z kratką przy elewacji Lewa
+    └── Wood 14.03
+        ├── Podwieszona pod oknami Lewa
+        └── Podwieszona pod oknami Prawa
