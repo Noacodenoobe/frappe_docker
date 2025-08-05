@@ -1,0 +1,59 @@
+P11
+├── Openspace
+│   ├── Florama 1
+│   ├── Florama 2
+│   ├── Florama 3
+│   ├── Na szczytach biurek
+│   ├── Narożnik wschodni
+│   │   ├── Podwieszona pod oknami 
+│   │   └── Z kratką przy elewacji 
+│   └── Wolnostojąca
+├── Salki
+│   ├── Office 11.06
+│   │   └── Wolnostojąca
+│   ├── Office 11.07
+│   │   └── Wolnostojąca
+│   ├── Office 11.08
+│   │   └── Wolnostojąca
+│   ├── Office 11.13
+│   │   └── Wolnostojąca
+│   ├── Office 11.14
+│   │   └── Wolnostojąca
+│   ├── Office 11.20
+│   │   └── Wolnostojąca
+│   ├── Office 11.21
+│   │   └── Wolnostojąca
+│   ├── Office 11.22
+│   │   └── Wolnostojąca
+│   ├── Office 11.29
+│   │   └── Wolnostojąca
+│   ├── Office 11.31
+│   │   └── Wolnostojąca
+│   ├── Project Uvita 11.30
+│   │   └── Wolnostojąca
+│   ├── Training Bali 11.01
+│   │   ├── Podwieszona pod oknami
+│   │   │   ├── Lewa
+│   │   │   └── Prawa
+│   │   └── Z kratką przy elewacji
+│   └── Training Comodo 11.02
+│       └── Podwieszona pod oknami
+├── THB
+│   ├── THB Południe
+│   │   ├── Konstrukcja
+│   │   └── Z kratką przy elewacji
+│   └── THB Północ
+│       ├── Konstrukcja
+│       └── Mobilna z kratką
+├── korytarz przy kuchni
+│   └── Wolnostojąca
+└── kuchnia
+    ├── konstrukcja podwieszona nad kuchnią
+    ├── Podwieszona pod oknami
+    │   ├── Lewa
+    │   ├── Prawa
+    │   └── Środkowa
+    ├── Siedziska
+    ├── wolnostojące
+    ├── Z kratką przy elewacji
+    └── ścianka mobilna z epi

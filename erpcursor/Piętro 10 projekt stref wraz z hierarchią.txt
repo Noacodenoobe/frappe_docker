@@ -1,0 +1,69 @@
+P10
+├── Klatka schodowa
+│   └── Pod schodami
+├── Kuchnia
+│   ├── Konstrukcja podwieszona nad kuchnią
+│   ├── Mobilna z kratką
+│   ├── Podwieszona pod oknami
+│   │   ├── Lewa
+│   │   ├── Prawa
+│   │   └── Środkowa
+│   ├── Siedziska
+│   └── Wolnostojąca
+├── Openspace
+│   ├── Florama 1
+│   ├── Florama 2
+│   ├── Florama 3
+│   ├── Mobilna z kratką
+│   ├── Na szczytach biurek
+│   ├── Narożnik wschodni
+│   │   ├── Podwieszona pod oknami
+│   │   │   ├── Lewa
+│   │   │   ├── Prawa
+│   │   │   └── Środkowa
+│   │   └── Z kratką przy elewacji
+│   ├── Narożnik zachodni
+│   │   ├── Podwieszona pod oknami
+│   │   │   ├── Lewa od środka
+│   │   │   ├── Lewa zewnętrzna
+│   │   │   ├── Prawa od środka
+│   │   │   └── Prawa zewnętrzna
+│   │   └── Z kratką przy elewacji
+│   └── Wolnostojąca
+├── Salki
+│   ├── Sala 10.01
+│   │   ├── Podwieszona pod oknami
+│   │   └── Wolnostojąca
+│   ├── Sala 10.07
+│   │   └── Wolnostojąca
+│   ├── Sala 10.11
+│   │   └── Wolnostojąca
+│   ├── Sala 10.12
+│   │   └── Wolnostojąca
+│   ├── Sala 10.13
+│   │   └── Podwieszona pod oknami
+│   │       ├── Lewa
+│   │       └── Prawa
+│   ├── Sala 10.14
+│   │   └── Wolnostojąca
+│   ├── Sala 10.19
+│   │   └── Wolnostojąca
+│   ├── Sala 10.21
+│   │   └── Wolnostojąca
+│   ├── Sala 10.27
+│   │   └── Wolnostojąca
+│   ├── Sala 10.28
+│   │   └── Wolnostojąca
+│   ├── Sala 10.29
+│   │   └── Wolnostojąca
+│   ├── Sala 10.30
+│   │   └── Podwieszona pod oknami
+│   └── Sala 10.31
+│       └── Wolnostojąca
+└── THB
+    ├── THB Południe
+    │   ├── Konstrukcja
+    │   └── Z kratką przy elewacji
+    └── THB Północ
+        ├── Konstrukcja
+        └── Mobilna z kratką
