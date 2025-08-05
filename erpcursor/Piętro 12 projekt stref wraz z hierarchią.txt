@@ -1,0 +1,55 @@
+P12
+├── Openspace
+│   ├── Florama 1
+│   ├── Florama 2
+│   ├── Florama 3
+│   ├── Mobilna z kratką
+│   ├── Na szczytach biurek
+│   ├── Podwieszona pod oknami Lewa
+│   ├── Podwieszona pod oknami Lewy narożnik
+│   ├── Podwieszona pod oknami Prawa
+│   ├── Podwieszona pod oknami prawy narożnik
+│   ├── Wolnostojąca
+│   └── Z kratką przy elewacji
+├── Salki
+│   ├── Clover 12.28
+│   │   ├── Podwieszona pod oknami Lewa
+│   │   ├── Podwieszona pod oknami Prawa
+│   │   └── Wolnostojąca
+│   ├── Creative Dandelion 12.29
+│   │   └── Wolnostojąca
+│   ├── Creative sloth 13.27
+│   │   ├── donica lampa wisząca
+│   │   └── Wolnostojąca
+│   ├── Office 12.06
+│   │   └── Wolnostojąca
+│   ├── Office 12.12
+│   │   └── Wolnostojąca
+│   ├── Office 12.19
+│   │   └── Wolnostojąca
+│   ├── Office 12.21
+│   │   └── Wolnostojąca
+│   ├── Poppy 12.27
+│   │   ├── Podwieszona pod oknami
+│   │   └── Podwieszona pod oknami Prawa
+│   ├── Project Marigold 12.11
+│   │   └── Wolnostojąca
+│   └── Sala Training Daisy 12.01
+│       └── Podwieszona pod oknami
+├── THB
+│   ├── THB Południe
+│   │   ├── Konstrukcja
+│   │   └── Z kratką przy elewacji
+│   └── THB Północ
+│       └── Konstrukcja
+└── kuchnia
+    ├── donica wolnostojaca na kółkach
+    ├── donica z siedziskiem
+    ├── donice w zabudowie
+    ├── Konstrukcja
+    ├── Podwieszona pod oknami Lewa
+    ├── Podwieszona pod oknami Prawa
+    ├── Podwieszona pod oknami środkowa
+    ├── wolnostojące
+    ├── Z kratką przy elewacji
+    └── zabudowa z mikrofalówką

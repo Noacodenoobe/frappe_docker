@@ -1,0 +1,47 @@
+P13
+├── Kuchnia
+│   ├── donica wolnostojaca na kółkach
+│   ├── donica z siedziskiem
+│   ├── Konstrukcja
+│   ├── Podwieszona pod oknami
+│   ├── wolnostojące
+│   ├── Z kratką przy elewacji
+│   └── zabudowa z mikrofalówką
+├── Openspace
+│   ├── Epipremnum konstrukcja TEAM HOME BASE
+│   ├── Florama 1
+│   ├── Florama 2
+│   ├── Florama 3
+│   ├── Na szczytach biurek
+│   ├── Podwieszona pod oknami Lewa zewnętrzna
+│   ├── Podwieszona pod oknami Lewa narożnik
+│   ├── Podwieszona pod oknami Prawa środkowa
+│   ├── Podwieszona pod oknami Prawa zewnętrzna
+│   ├── Podwieszona pod oknami Prawa narożnik
+│   └── Z kratką przy elewacji wokól słupa
+├── Openspace w narożniku
+│   ├── Podwieszona pod oknami
+│   └── Wolnostojąca
+└── Salki
+    ├── 13.06 office
+    │   └── Wolnostojąca
+    ├── 13.11 Toucan
+    │   └── Podwieszona pod oknami
+    ├── 13.12 Flamingo
+    │   └── Podwieszona pod oknami
+    ├── 13.13 Flex
+    │   └── Wolnostojąca
+    ├── Office 13.18
+    │   └── Wolnostojąca
+    ├── Office 13.20
+    │   └── Wolnostojąca
+    ├── Office 13.25
+    │   └── Wolnostojąca
+    ├── Project Capybara 13.26
+    │   └── Wolnostojąca
+    ├── Sala Training bongo 13.01
+    │   ├── Podwieszona pod oknami
+    │   └── Z kratką przy elewacji
+    └── Sala Training okapi
+        ├── Podwieszona pod oknami
+        └── wolnostojące
